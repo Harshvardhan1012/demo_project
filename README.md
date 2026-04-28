@@ -1,4 +1,4 @@
-# Product Catalog
+# Product List
 
 A responsive single-page React application that displays a multi-category product catalog. Items are grouped by category on the home screen and reveal full specifications on a dedicated detail view.
 
@@ -70,4 +70,3 @@ src/
 ├── main.tsx                    Vite entry point
 └── index.css                   Minimal global reset (MUI CssBaseline handles the rest)
 ```
-"# demo_project" 
